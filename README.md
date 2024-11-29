@@ -207,5 +207,4 @@ Emoji:
     
 :mask: 
 
-RATTHASAS SINGHAMANEE 041
-PANUWAT SONGKRAM 038
+Ratthasas Singhamanee 662115041
